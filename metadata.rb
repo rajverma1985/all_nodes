@@ -4,7 +4,8 @@ maintainer_email 'rjnshvrm23@example.com'
 license 'all_rights'
 description 'Installs/Configures all_nodes'
 long_description 'Installs/Configures all_nodes'
-version '0.1.1'
+# update default.rb file.
+version '0.1.2'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link

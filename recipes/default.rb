@@ -4,4 +4,4 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
-include recipe 'chef-client::default'
+include_recipe 'chef-client::default'
